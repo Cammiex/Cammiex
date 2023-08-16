@@ -17,8 +17,8 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 ### Reach me on
 - <a href="https://linkedin.com/in/aqil-rahmatullah/">LinkedIn</a>
 - aqilr54@gmail.com
-- <a href="https://twitter/kursigemink">Twitter</a>
-- <a href="https://instagram/aqilraa_">Instagram</a>
+- <a href="https://twitter.com/kursigemink">Twitter</a>
+- <a href="https://instagram.com/aqilraa_">Instagram</a>
 
 
 
