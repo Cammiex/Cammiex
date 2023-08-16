@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hallo Semua 👋
+
+Perkenalkan nama saya **Aqil Rahmatullah**.\
+
+Saya adalah seorang **Mahasiswa** di Universitas Lambung Mangkurat.\
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/aqil-rahmatullah/)ku ya.
+
+
 
 <!--
 **Cammiex/Cammiex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
