@@ -7,7 +7,7 @@
 </div>
 
 </div>
-<div id="intro" align="center">  I'am a 3rd year student pursuing Bachelor's in Technology Information 🎓 from Lambung Mangkurat University 🏫. I have strong interest learning into field of technologies 💡. I love to explore new technologies and leverage them to solve real-life problems 🤩. I'm currently into Web Development and UI/UX Design Course ⚡ and working on my group project 🤓.
+<div id="intro" align="center">  I'm a 3rd year student pursuing Bachelor's in Technology Information 🎓 from Lambung Mangkurat University 🏫. I have strong interest learning into field of technologies 💡. I love to explore new technologies and leverage them to solve real-life problems 🤩. I'm currently into Web Development and UI/UX Design Course ⚡ and working on my group project 🤓.
 </div>
 
 ## Technology Stack 🔨 :
