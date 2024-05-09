@@ -29,6 +29,7 @@
 ## Github Statistic 📊 :
 ![](https://github-readme-stats.vercel.app/api?username=Cammiex&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Cammiex&theme=tokyonight&hide_border=false)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cammiex&layout=compact&theme=tokyonight)](https://github.com/Cammiex)
 
 ## Reach me on ♾️ :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aqil-rahmatullah/) 
